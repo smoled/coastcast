@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New South Wales",
+        "state_code": "NSW",
+        "coverage": "Coastal forecasting service"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [141.0, -28.0],
+          [154.0, -28.0],
+          [154.0, -37.5],
+          [141.0, -37.5],
+          [141.0, -28.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queensland",
+        "state_code": "QLD",
+        "coverage": "Coastal forecasting service"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [138.0, -10.5],
+          [154.0, -10.5],
+          [154.0, -28.0],
+          [138.0, -28.0],
+          [138.0, -10.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria",
+        "state_code": "VIC",
+        "coverage": "Coastal forecasting service"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [141.0, -37.5],
+          [150.0, -37.5],
+          [150.0, -39.2],
+          [141.0, -39.2],
+          [141.0, -37.5]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Australia",
+        "state_code": "SA",
+        "coverage": "Coastal forecasting service"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [129.0, -32.0],
+          [141.0, -32.0],
+          [141.0, -37.5],
+          [129.0, -37.5],
+          [129.0, -32.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Australia",
+        "state_code": "WA",
+        "coverage": "Coastal forecasting service"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [113.0, -16.0],
+          [129.0, -16.0],
+          [129.0, -35.0],
+          [113.0, -35.0],
+          [113.0, -16.0]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tasmania",
+        "state_code": "TAS",
+        "coverage": "Coastal forecasting service"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [143.5, -40.0],
+          [148.5, -40.0],
+          [148.5, -44.0],
+          [143.5, -44.0],
+          [143.5, -40.0]
+        ]]
+      }
+    }
+  ]
+}
